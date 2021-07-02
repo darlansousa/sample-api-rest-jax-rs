@@ -1,0 +1,5 @@
+br/com/getcriativa/amgdevapi/MyResource.class
+br/com/getcriativa/amgdevapi/pessoa/resource/PessoaResource.class
+br/com/getcriativa/amgdevapi/Main.class
+br/com/getcriativa/amgdevapi/pessoa/repo/PessoaRepository.class
+br/com/getcriativa/amgdevapi/pessoa/entity/Pessoa.class
